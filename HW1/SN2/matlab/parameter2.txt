@@ -1,0 +1,10 @@
+AIW = 3 ; AFW = 4;
+BIW = 5 ; BFW = 3;
+SIW = max(AIW,BIW) + 2 ;
+SFW = 3;
+
+//===BFW
+AIW = 3 ; AFW = 4;
+BIW = 2 ; BFW = 3;
+SIW = max(AIW,BIW) + 2 ;
+SFW = 4;
